@@ -1,0 +1,11 @@
+h1 {
+  color: rebeccapurple;
+  margin: 2% 2% 2% 2%;
+  padding: 1% 1% 1% 1%;
+  border-radius: 15px;
+  background-color: bisque;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans";
+  font-weight: 900;
+  text-shadow: 2px 1px;
+}

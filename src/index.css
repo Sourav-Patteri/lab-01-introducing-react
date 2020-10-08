@@ -1,0 +1,29 @@
+body {
+  background-color: antiquewhite !important;
+}
+#container {
+  margin-top: 20%;
+  margin-bottom: 20%;
+}
+#jumbotron {
+  background-color: rgb(255, 216, 169);
+  display: flex;
+  align-items: center;
+  height: 290px;
+  border-radius: 20px;
+  box-shadow: 8px 8px 4px rgb(255, 175, 84);
+}
+input {
+  outline: none;
+  height: 40px;
+  border-radius: 8px;
+}
+input:hover {
+  border: 2.5px solid rgb(185, 80, 255);
+  transition: 0.2s;
+}
+input:focus {
+  border: 2.5px solid rgb(155, 81, 204);
+  border-radius: 8px;
+  transition: 0.2s;
+}
